@@ -27,7 +27,6 @@
 ;;; Code:
 
 (require 'cl-lib)
-(require 'haskell-compat)
 (require 'haskell-lexeme)
 (require 'font-lock)
 
@@ -35,7 +34,6 @@
 (defgroup haskell-appearance nil
   "Haskell Appearance."
   :group 'haskell)
-
 
 (defcustom haskell-font-lock-symbols nil
   "Display \\ and -> and such using symbols in fonts.

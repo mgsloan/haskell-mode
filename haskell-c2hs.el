@@ -28,7 +28,6 @@
 
 (require 'haskell-mode)
 (require 'haskell-font-lock)
-(require 'haskell-utils)
 
 ;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.chs\\'" . haskell-c2hs-mode))
