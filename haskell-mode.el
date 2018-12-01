@@ -12,7 +12,7 @@
 ;;          2003      Dave Love <fx@gnu.org>
 ;;          2016      Arthur Fayzrakhmanov
 ;; Keywords: faces files Haskell
-;; Version: 16.2-git
+;; Version: 9001-git
 ;; URL: https://github.com/haskell/haskell-mode
 
 ;; This file is not part of GNU Emacs.
@@ -46,7 +46,7 @@
 ;; All functions/variables start with `(literate-)haskell-'.
 
 ;; Version of mode.
-(defconst haskell-version "16.2-git"
+(defconst haskell-version "9001-git"
   "The release version of `haskell-mode'.")
 
 ;;;###autoload
